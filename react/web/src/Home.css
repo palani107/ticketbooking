@@ -1,0 +1,11 @@
+.ctn{
+  
+    background-color: aquamarine;
+    border: 2px black solid;
+    width: 30%;
+    padding-top: 30px;
+}
+
+button{
+    background-color: tomato;
+}
